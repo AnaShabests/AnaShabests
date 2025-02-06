@@ -43,10 +43,10 @@
 
 <br>
 <div style="text-align: center;" align="center">
- <h3 align="center">⭑ ⭑ ✦ GitHub Stats ✦ ⭑ ⭑</h3>
+ <h3 align="center">⭑ ⭑ ✦ GitHub Status ✦ ⭑ ⭑</h3>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AnaShabests&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=9400D3&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AnaShabests&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=9400D3&text_color=c9d1d9&bg_color=0d1117" alt="Ana Shabests github status" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaShabests&layout=compact&hide_border=true&title_color=9400D3&text_color=9400D3&bg_color=0d1117" />
 </div>
 
